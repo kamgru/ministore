@@ -10,10 +10,8 @@ namespace MiniStore.Application
         public Guid Id { get; set; }
         public string Name { get; set; }
         public IReadOnlyCollection<CategoryViewModel> Categories => _categories.AsReadOnly();
-        public IReadOnlyCollection<Guid> ProductIds => _productIds.AsReadOnly();
-
+        public IReadOnlyCollection<Guid> ProductIds { get; private set; }
         private List<CategoryViewModel> _categories;
-        private List<Guid> _productIds;
 
         public CategoryViewModel(Category category)
         {
@@ -21,7 +19,7 @@ namespace MiniStore.Application
             Name = category.Name;
 
             _categories = new List<CategoryViewModel>();
-            _productIds = category.ProductIds.ToList();
+            ProductIds = category.GetAllProductIdsInHierarchy();
 
             foreach (var child in category.Categories)
             {

@@ -52,7 +52,7 @@ namespace MiniStore.Infrastructure.Persistence
 
         public PagedResult<Product> SearchByCategory(Category category, Query<Product> query)
         {
-            var cat = Builders<Product>.Filter.In(x => x.Id, category.GetProductIds());
+            var cat = Builders<Product>.Filter.In(x => x.Id, category.GetAllProductIdsInHierarchy());
 
             var q = Builders<Product>.Filter.Where(query.Predicate);
 

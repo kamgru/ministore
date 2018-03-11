@@ -6,14 +6,14 @@ using System.Linq;
 
 namespace MiniStore.Application
 {
-    public class ApplicationService
+    public class CategoryService
     {
         private static CategoryTreeViewModel _categoryTree;
         private static IDictionary<Guid, Category> _categories;
 
         private readonly ICategoryRepository _categoryRepository;
 
-        public ApplicationService(ICategoryRepository categoryRepository)
+        public CategoryService(ICategoryRepository categoryRepository)
         {
             _categoryRepository = categoryRepository;
         }

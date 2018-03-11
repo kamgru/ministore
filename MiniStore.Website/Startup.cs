@@ -28,7 +28,7 @@ namespace MiniStore.Website
             services.AddMvc();
             services.AddTransient<ICategoryRepository>(
                factory => new CategoryRepository(new MongoClient("mongodb://localhost:27017").GetDatabase("MiniStore")));
-            services.AddTransient<ApplicationService>();
+            services.AddTransient<CategoryService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

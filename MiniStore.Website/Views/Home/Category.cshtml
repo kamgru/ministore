@@ -25,6 +25,16 @@
                     @Html.DisplayFor(model => model.Name)
                 </dd>
             </dl>
+            <hr/>
+            <p>
+                Product ids<br/>
+                @foreach (var id in Model.ProductIds)
+                {
+                <span>@id</span><br/>
+
+                }
+            </p>
+
         </div>
         <div>
             @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |

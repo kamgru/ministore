@@ -17,6 +17,9 @@ namespace MiniStore.Domain
 
         public IReadOnlyCollection<Category> Categories => _childCategories.AsReadOnly();
 
+        /// <summary>
+        /// Collection of product ids added to this category
+        /// </summary>
         public IReadOnlyCollection<Guid> ProductIds => _productIds.AsReadOnly();
 
         public Category(Guid id, string name) : this(id, name, false) { }
@@ -33,9 +36,13 @@ namespace MiniStore.Domain
             return new Category(Guid.NewGuid(), name, isRoot);
         }
 
-        public IReadOnlyCollection<Guid> GetProductIds()
+        /// <summary>
+        /// Returns product ids added to this category and all child categories
+        /// </summary>
+        /// <returns></returns>
+        public IReadOnlyCollection<Guid> GetAllProductIdsInHierarchy()
         {
-            var childCategoriesProductIds = _childCategories.SelectMany(x => x.GetProductIds());
+            var childCategoriesProductIds = _childCategories.SelectMany(x => x.GetAllProductIdsInHierarchy());
             return _productIds.Concat(childCategoriesProductIds)
                 .ToList()
                 .AsReadOnly();

@@ -31,7 +31,7 @@ namespace MiniStore.Domain.Tests
             var pcat1_1 = new Product(Guid.NewGuid(), "pcat1_1");
             cat1_1.AddProduct(pcat1_1);
 
-            var allProducts = root.GetProductIds();
+            var allProducts = root.GetAllProductIdsInHierarchy();
 
             allProducts.Should().HaveCount(4);
             allProducts.Should().BeEquivalentTo(new[] { proot1, pcat1, pcat2, pcat1_1 }.Select(x => x.Id));

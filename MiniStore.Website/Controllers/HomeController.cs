@@ -12,9 +12,9 @@ namespace MiniStore.Website.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ApplicationService _applicationService;
+        private readonly CategoryService _applicationService;
 
-        public HomeController(ApplicationService applicationService)
+        public HomeController(CategoryService applicationService)
         {
             _applicationService = applicationService;
         }
