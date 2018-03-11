@@ -4,8 +4,4 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\MiniStore.Common\MiniStore.Common.csproj" />
-  </ItemGroup>
-
 </Project>

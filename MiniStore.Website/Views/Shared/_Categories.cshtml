@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MiniStore.Application.CategoryViewModel>
+
+<ul>
+    @foreach(var category in Model)
+    {
+    <li>
+        <a href="@Url.Action("Category", "Home", new { id = category.Id })">
+            @category.Name
+        </a>
+        @if (category.Categories.Any())
+        {
+            @Html.Partial("_Categories", category.Categories)
+        }
+    </li>
+    }
+</ul>
