@@ -11,6 +11,7 @@ namespace MiniStore.Infrastructure.Persistence
     {
         private const string _collectionName = "Categories";
         private readonly IMongoDatabase _database;
+        private readonly IMongoCollection<Category> _collection;
 
         public CategoryRepository(IMongoDatabase database)
         {
@@ -24,6 +25,9 @@ namespace MiniStore.Infrastructure.Persistence
                     x.MapField("_productIds");
                 });
             }
+
+            _collection = _database.GetCollection<Category>(_collectionName);
+
         }
 
         public void Add(Category category)
@@ -43,7 +47,7 @@ namespace MiniStore.Infrastructure.Persistence
 
         private IMongoCollection<Category> Collection()
         {
-            return _database.GetCollection<Category>(_collectionName);
+            return _collection;
         }
     }
 }

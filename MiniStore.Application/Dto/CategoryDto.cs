@@ -3,27 +3,27 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MiniStore.Application
+namespace MiniStore.Application.Dto
 {
-    public class CategoryViewModel
+    public class CategoryDto
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public IReadOnlyCollection<CategoryViewModel> Categories => _categories.AsReadOnly();
+        public IReadOnlyCollection<CategoryDto> Categories => _categories.AsReadOnly();
         public IReadOnlyCollection<Guid> ProductIds { get; private set; }
-        private List<CategoryViewModel> _categories;
+        private List<CategoryDto> _categories;
 
-        public CategoryViewModel(Category category)
+        public CategoryDto(Domain.Category category)
         {
             Id = category.Id;
             Name = category.Name;
 
-            _categories = new List<CategoryViewModel>();
+            _categories = new List<CategoryDto>();
             ProductIds = category.GetAllProductIdsInHierarchy();
 
             foreach (var child in category.Categories)
             {
-                _categories.Add(new CategoryViewModel(child));
+                _categories.Add(new CategoryDto(child));
             }
         }
     }

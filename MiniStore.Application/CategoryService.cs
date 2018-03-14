@@ -1,4 +1,5 @@
-﻿using MiniStore.Domain;
+﻿using MiniStore.Application.Dto;
+using MiniStore.Domain;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
@@ -8,8 +9,8 @@ namespace MiniStore.Application
 {
     public class CategoryService
     {
-        private static CategoryTreeViewModel _categoryTree;
-        private static IDictionary<Guid, Category> _categories;
+        private static CategoryTree _categoryTree;
+        private static IDictionary<Guid, Domain.Category> _categories;
 
         private readonly ICategoryRepository _categoryRepository;
 
@@ -18,22 +19,22 @@ namespace MiniStore.Application
             _categoryRepository = categoryRepository;
         }
 
-        public CategoryTreeViewModel GetCategoryTree()
+        public CategoryTree GetCategoryTree()
         {
             if (_categoryTree == null)
             {
                 var rootCategories = _categoryRepository.GetRootCategories();
 
-                _categoryTree = new CategoryTreeViewModel
+                _categoryTree = new CategoryTree
                 {
-                    Categories = rootCategories.Select(x => new CategoryViewModel(x))
+                    Categories = rootCategories.Select(x => new Dto.CategoryDto(x))
                 };
             }
 
             return _categoryTree;
         }
 
-        public CategoryViewModel GetCategory(Guid id)
+        public Dto.CategoryDto GetCategory(Guid id)
         {
             if (_categories == null)
             {
@@ -49,7 +50,7 @@ namespace MiniStore.Application
                 return null;
             }
 
-            return new CategoryViewModel(_categories[id]);
+            return new Dto.CategoryDto(_categories[id]);
         }
     }
 }

@@ -1,0 +1,1579 @@
+[
+  {
+    "Id": "4ae517c2-c8e9-42e3-89e4-fc3be53d7580",
+    "Name": "Dla niej",
+    "IsRootCategory": true,
+    "Categories": [
+      {
+        "Id": "1c784217-ca18-4d30-babf-02d56e724936",
+        "Name": "Bielizna",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "163d4360-8699-499d-9308-d5a3f170faaf",
+          "5ac238a9-9084-4f38-8468-59abad5eeebc",
+          "696e0d7c-3e26-4ea0-99ca-04d64e09febe",
+          "19e8e503-8072-42e9-8860-44e5d1bde52d",
+          "240974f6-60f7-4401-bfbc-1c20e7bd812c",
+          "9365f1c3-e434-44c0-a6a7-2621019e4751",
+          "6a83eb0f-c42b-4ec3-bcca-f2ea2f46ebed",
+          "0a84bd88-1e6e-4439-bddb-034223d0c700",
+          "1e0ffe41-a462-40f6-9be5-4bce25973d01",
+          "b454ca9f-fe41-4d90-b427-1bca92e3abee",
+          "0a83f8e8-fd23-40ea-974e-671c0a04f853",
+          "d120ae75-ed9a-4a1e-ba00-09d93ffec898",
+          "6346b4bd-c2ee-4797-bc75-d1fa53db3f20",
+          "ad48d819-8465-431d-acc7-a53a76505713",
+          "d7267d5e-5195-458a-9ed0-773b69e6f19a"
+        ]
+      },
+      {
+        "Id": "1eb40043-e8ef-4f23-9d62-d3eeb592a1dd",
+        "Name": "Kobieca drogeria",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "38590d74-a35d-4b16-912b-ee248e99a3bd",
+            "Name": "Afrodyzjaki i feromony",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "38beb452-7ead-4b88-a9b6-d903f38e6a45",
+              "efc3fa61-f1fc-4ec3-9e17-1495e807665d",
+              "ede50291-6b40-4a6f-9597-0b1c6b348ac0",
+              "e1d8455f-5fdf-4df8-9eb9-abe55eec143c",
+              "60a3350e-01fd-44f5-8edb-a486d09a3a5a",
+              "76fe1c57-cfe3-40e6-bd95-7fcb3b3311e5",
+              "0f007131-4b9a-4835-8492-8d674140980d",
+              "13a29a95-27ba-4839-b799-cdde08dae3ce",
+              "6eb0b6bf-3608-41ff-949b-e6a62ffbea45",
+              "eef99b8d-745f-4b58-be97-141403faf8ca",
+              "f1b40911-fdbc-4191-be98-6c86787c2461",
+              "7565a08d-08dd-4560-b308-0f07eb246e9d",
+              "0021aeb4-04d4-425f-a717-9e72beecb3fe",
+              "98b69354-1a45-4dee-9454-dd14daf060d7",
+              "f2452c20-54ff-4a97-b8fb-a1b839628f2c"
+            ]
+          },
+          {
+            "Id": "0a13d474-9968-40c7-a5ad-db3a998659e3",
+            "Name": "Pielęgnacja piersi",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "4f4984d3-9400-444f-bb54-0e99f9d5e1f2",
+              "c9b27a3f-c232-425a-b62b-1b26b63ae059",
+              "467c7996-56d4-426f-b8a5-3729f9b41abe",
+              "8193c41f-1d08-4aad-9099-38dc2c23ebf4",
+              "3e97e71b-acd6-4378-90bb-3f1a60b822be",
+              "2374541e-4cc9-4d92-9e41-6b007be339f0",
+              "00cc765d-5cdc-4528-a344-f95f8a38fbb3",
+              "a45b3efa-cf97-4c00-bdce-414b04e26529",
+              "4f8bb6df-67b4-4108-ba07-c73d2fa43eaf",
+              "602e973d-b61c-4d9b-825b-0f473f3b7d90",
+              "68c9a945-9354-4957-ad21-576e45098348",
+              "83d27ac0-f8c4-4c1c-941f-50ea04c03b51",
+              "6c3bbe49-3bca-4d2a-8ace-8601da1cc3e2",
+              "7599c887-1603-4971-8c6f-f94e8559ca3e",
+              "1cd7fa48-5df9-4b5e-88f4-010276a237c3"
+            ]
+          },
+          {
+            "Id": "6aae564a-cffd-4675-83bf-0e5114a02427",
+            "Name": "Pielęgnacja piersi",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "b51bf553-1ca2-4371-888b-5e586de80d64",
+              "1e632da8-7d4d-4cf1-9327-9f065161d497",
+              "d4bf58bd-eb6e-41c0-9bce-6774b001fa19",
+              "3ec35d1f-cd30-4adc-b0b5-ed346a3af196",
+              "3a25d6da-4dba-4715-b4d6-655d1a3c1380",
+              "838ecbae-f911-482c-b0d5-eb1ff7bbb918",
+              "e3858688-c9eb-4bce-9b95-b0909bd1dc19",
+              "7d328654-100a-4285-b86e-36571f210a5e",
+              "eacf47f6-9ff9-4df0-b461-7dbf4db1be11",
+              "d4c0857f-5032-463d-ba58-3e5f35f17c29",
+              "ee6c59b5-f43f-4c2d-8ec6-a9b5551c0c3f",
+              "3e9c61b2-d4ed-46b9-8c2d-555e95fe6e67",
+              "b3110994-2a4f-4744-bbb0-2fc11560f339",
+              "51793c35-15bb-4b1b-af37-0ef9926d2087",
+              "72c2f95f-47ad-4d8b-a45d-3ee0e3de1177"
+            ]
+          },
+          {
+            "Id": "1661e5d2-a858-4e60-9a38-e96ee04a0c94",
+            "Name": "Lubrykanty",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "9c460b74-32e8-4103-bac4-f342c3769a1f",
+              "263af330-199a-4f13-a480-a3afcc312e8c",
+              "20d1a8cd-91b3-4876-b82c-4ff30fa19a96",
+              "f6008742-b35e-4c5b-852d-30370005da46",
+              "b754d004-b150-4472-9dd1-a72cb1ce36b0",
+              "8c5f81d9-738e-4c2f-ab7a-26ad5fd7d5de",
+              "a8932994-b149-43e8-a895-0e8e69795138",
+              "25c745f7-c458-46b3-a496-5ea3b812b179",
+              "9b97f01e-4bb0-4cec-b048-e52023b615d7",
+              "0d4ba44c-4c89-4b2d-baf1-42e51e9a11ae",
+              "83fe9e5b-4f38-4ea8-a5a0-d02ff2e60247",
+              "f1a493bc-3e8e-487a-a893-cfc28a20ded5",
+              "b224274c-f7e2-4e03-aa9d-66c0eeeb1c89",
+              "ef2f82aa-38b0-4e82-b7a8-8a7235fa5d31",
+              "30f0ae9f-155a-4f29-a254-4f6913d256dd"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "a0be3577-7fb9-4fc7-9df3-48234c2b7871",
+        "Name": "Erotyczne dodatki",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "367e3c10-38f3-4e67-be9b-12d732da8d7e",
+            "Name": "Biżuteria",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "cf41a0c6-feb5-4a5d-bea2-33a337b5d9fd",
+              "bba9ee9e-c9b4-4638-aaaa-55f3b4d98020",
+              "3ae7a11a-fbea-467b-95f6-0080b808b4ec",
+              "bc7ae5cd-6333-44dd-9463-51b93fc19ada",
+              "474a746b-a794-4c84-a66a-1711a8a0dd06",
+              "bc17df74-26bd-41a4-8d7b-b95ada96794b",
+              "dab12ff6-b8f9-4539-a442-e93b8071c27c",
+              "ec7f0ed3-2b71-4282-80f7-2d19961da845",
+              "8a2b393a-5e3e-47d6-8d78-95d1a64ed114",
+              "6a095365-0b4c-41d8-9adb-7e5ea3b89692",
+              "30f0e0ac-1541-4dcb-9064-0312605dd615",
+              "d6a65961-4eb7-4b86-a38a-77539667abdc",
+              "d33fdda5-4235-4141-aef1-966ba22f3b58",
+              "0c4b0cca-e991-4083-8c9d-c3587fb43dc2",
+              "b9490dad-b1b1-4752-9f20-12e1b109912d"
+            ]
+          },
+          {
+            "Id": "0a6fdd2c-fdfa-43e6-9ef0-4b64a0fc5481",
+            "Name": "Maski",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "da3be7aa-5b53-41fe-9017-942566397a23",
+              "f7648b89-8a9f-445c-8fc0-e6fc1d8d9c70",
+              "f250f0ce-a398-40cf-add5-96a4873f4720",
+              "1751d2f4-647a-4936-b293-e9b9d5123464",
+              "9d939250-3afb-42db-92eb-21048767e50c",
+              "12d4b27c-c087-4edd-95e0-53c62ef0d6ff",
+              "a48609d8-56f3-4c8f-bcb1-da35dc63c667",
+              "13eae9aa-284e-4af3-ad54-6de3e23e3287",
+              "722a73d0-bb80-49fb-b3c7-f0a03ad4f139",
+              "23ef1a32-1f95-4997-8807-655e55df21a0",
+              "44c6fd19-acc0-401a-ab5f-cf24c8105ce0",
+              "ddc8fb3b-4709-4ba3-b24e-839a7b733530",
+              "8098c47d-07b4-4e73-b96a-294c04acf9dc",
+              "1ef535d9-44e8-456c-b918-2a882b0eb0a2",
+              "eee7a908-8529-4754-852c-cf3d752239c8"
+            ]
+          },
+          {
+            "Id": "a088d21b-f332-4bca-b876-781295ca9451",
+            "Name": "Naklejki na sutki",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "07e0f6b3-b857-4261-9c55-0da53f1e6e00",
+              "0c09df15-5700-45b5-8729-0c8954ecbd1f",
+              "5d3c0370-74c6-45bf-9eaf-fee5e9386fbd",
+              "a1b6bc7f-1974-4feb-afa4-e42aec7f613f",
+              "2cf83856-2d78-4213-ad13-208227b8ee27",
+              "a3af2d13-3453-4ebb-871e-712b464279de",
+              "d9365e01-5041-4483-a8aa-5912aedb9c69",
+              "5bb09bbd-c9a6-42ea-b08b-cefb3bc62ebf",
+              "727abf69-be54-4b5b-b3ba-37e07140adc9",
+              "5b1eb511-2e84-46d4-ad25-d29d9f2da1db",
+              "881ca760-287c-46ee-9713-c65c646158f8",
+              "ac8fe918-111d-4ebc-8956-94ff5132a636",
+              "ad89b869-d06e-44ac-9ef6-52881c7e3430",
+              "106abf7e-ecdf-4aee-b030-e9d492d3a6e8",
+              "f35fd2c1-441e-4110-b0c8-aa4b97868dd0"
+            ]
+          },
+          {
+            "Id": "81321cc6-f904-4ca5-97fc-8c66ab7b3a76",
+            "Name": "Ozdoby do ciała",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "b81540cf-4ac0-4b2d-a330-e1d88d31f022",
+              "971927cf-bf8a-47c8-944d-6479f2bb7579",
+              "60876ff1-2328-406c-9e74-98df3fecdbda",
+              "9ed0a85c-ce5f-4792-be03-0130728576f2",
+              "44c2972b-4aca-4d36-a313-2a5351419811",
+              "1f800463-1593-453b-b9e4-e8dcd6f646a7",
+              "cdf10767-51c7-4bf8-8b95-2863d794ab91",
+              "283e4049-10ea-480d-9375-f655768d7e81",
+              "54762a8a-bc06-4eb4-99ff-3ccab302a735",
+              "6d76b2b9-8cca-4bd0-9410-c22161a1617c",
+              "dd7fa70b-2a89-476e-a783-1a72f3e4e58c",
+              "2d0c3f3e-db42-4740-abb4-686b6cfe4b2b",
+              "ac4244e2-cf87-4665-b10d-b4f119f8a995",
+              "fc278f0b-6acb-4810-bb6b-268a88e6d271",
+              "0aa1caad-dafd-4465-903d-af1cdf4ca06f"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "cd81ceb9-baf5-4582-80f4-d0fd6c869ae3",
+        "Name": "Kulki gejszy",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "6ab53855-cb27-4bac-8fdc-fc56e664a8cd",
+            "Name": "Klasyczne",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "502e091c-f6ed-4233-a945-eed6e375923b",
+              "0076c091-240b-4e0d-911c-ee299e2c0b9f",
+              "4f2a67e9-d2c6-452b-a2e5-64deac017c52",
+              "0005a4a9-771e-4abe-bc05-806cc88a78af",
+              "416e8405-b7b4-4356-b503-c291b2c0d53a",
+              "75eba9ff-7c93-49b6-8c1d-2cbaf4504674",
+              "2570a9e2-5fe8-46b4-95d8-3f73234c0f70",
+              "2ddb5117-4209-4963-b8ef-e6024bbf1aa0",
+              "b6f8fc2f-49ff-45ac-8353-dfeb238cd044",
+              "439971db-5401-4e1d-893f-be2a2fc32aba",
+              "fbf12ad8-85d8-4b07-8cbf-e772fc309e03",
+              "9a6133e0-adc7-4350-ae36-4a138a50d6be",
+              "dda80e1f-b87e-4b60-8b88-1c9bb33b0e8f",
+              "b298f68f-d613-414e-ae89-e62081092859",
+              "5202957b-d29c-48db-91d6-8ef2762c0895"
+            ]
+          },
+          {
+            "Id": "528d2a46-2513-4ba6-b46a-ea8613953efc",
+            "Name": "Wibrujące",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "63d9441f-9f11-424a-9506-d868dd1a0ebb",
+              "b41fcc5f-241a-46fb-a740-abbc0ab913c6",
+              "064ab377-98c0-42ce-ab63-1428fe2ed245",
+              "70cefcf6-f802-4fe1-856a-8f1ef40bc238",
+              "2f2f8bc4-8d41-4377-8e97-88c6b5be639f",
+              "114d9590-81b3-4458-9c21-8e51bee4377f",
+              "d815b4f6-37b4-478c-9fbb-76d18ee66830",
+              "20e854e6-ff14-4f60-a5e6-1760c70d003d",
+              "00bc6efa-cb99-4395-bee2-ab1d6b1bce0d",
+              "bf930698-3961-4cc8-b2d6-58a99fdb53de",
+              "a4c41a41-10c1-4e51-ab62-9f8068e571e0",
+              "6224a542-309f-4a48-958f-5d18d0437c8c",
+              "11de655a-0c2d-4903-9bfb-bfa9510477c8",
+              "b355eb98-872b-4f75-86b6-f17890520b6d",
+              "8944cdca-1061-43ff-b6f6-97c5544ec217"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "a16f3d20-8dd7-4cd7-a86c-8f01cf6dcbbf",
+        "Name": "Dildo",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "77898c4f-8a3c-4585-9b45-2fe0dcbf33c1",
+          "e4192683-316f-45cd-80d2-16b660a6f8f2",
+          "0dec04e8-d769-40de-8ad2-b76b2ad03ec8",
+          "cb1f42ec-d78f-43c5-87c2-bf953983762e",
+          "3025e954-3556-4026-ae18-f3808c58b2f0",
+          "166f31a4-7a10-4da2-b04f-60783328d046",
+          "3628e68c-d411-431e-8ba4-23ec2e55348c",
+          "20a1a99d-a76d-422f-85a9-1d0be199eedc",
+          "52c2c6a2-c16a-45ba-898a-64d9a1c322ff",
+          "07e68052-8064-439f-8ea4-df06dc6b09b7",
+          "47835c4c-ae00-4350-b0d5-8408c714deb7",
+          "51295a2d-ebaa-4b3f-87cb-698385bd1100",
+          "2d48b176-d270-499d-a886-9366b4a2767d",
+          "9f096843-6d44-4a6e-80f8-01872762aa46",
+          "0c20f2fc-af07-4f5a-a596-01498fca58cd"
+        ]
+      }
+    ],
+    "ProductIds": []
+  },
+  {
+    "Id": "f8a75760-4423-4ccd-8ede-df96a15c7a99",
+    "Name": "Dla niego",
+    "IsRootCategory": true,
+    "Categories": [
+      {
+        "Id": "571e4a09-3d52-4872-9d2d-435536f7bc8f",
+        "Name": "Masażery prostaty",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "2721ce5a-0d0f-4f63-bdd3-709c440047ed",
+          "69058321-901d-46ec-821b-b33efe1f0a23",
+          "04824bdd-346a-4141-b0c0-5511633c3e2b",
+          "0bab12d1-24bc-4f74-8882-1f005ab089da",
+          "405451bd-9b2c-41ed-b858-00e9f19bb30a",
+          "c0b097f6-fb5e-462e-9e67-b0b90fdd716d",
+          "367b0588-167c-4e90-8f88-d835859d2a3c",
+          "cf75ab35-b60e-4ce8-9ab8-cd1acb9c9445",
+          "ee6de16c-3310-45d3-8c62-08743e033bd5",
+          "f0c23485-d2af-402d-8b4c-bb8aae867a03",
+          "9582d13a-35ab-4b00-936a-4c91039c797b",
+          "1a579f3c-9708-46e3-b4d7-c72edf3fbb39",
+          "139d20e8-5829-41c6-ae10-f45dd363c988",
+          "c7fe97d8-5398-491f-81a3-f672ad5c46d6",
+          "7ee71c0a-a95b-4add-b508-ea9c0c44eb0e"
+        ]
+      },
+      {
+        "Id": "0bdbe82a-8ae8-4d3d-af9c-b451b42728a5",
+        "Name": "Pierścienie erekcyjne",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "3a856d52-e0af-4a6e-90bb-8d28777277fe",
+            "Name": "Wibrujące",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "eaa0409f-e767-43a5-a15f-eb487845ca0c",
+              "e6ca4cce-6936-4a17-a94f-ccf3bc9fb19c",
+              "24d23c46-9b6c-4326-9b0c-2490beb62575",
+              "3e7a4302-51f7-4dde-8890-2c2033f720d9",
+              "170861a2-e5d8-41a3-9ba3-2ef3abe7b147",
+              "fda7a726-e1cc-459b-9b8f-47742017dcfa",
+              "b004f5b1-c41b-442d-b16d-fb03e2356757",
+              "fb425d26-3e5e-421d-bd46-63d0688eca12",
+              "215db411-2b13-4278-83a9-0af7e679916d",
+              "91120111-5e13-4e6f-9dd7-66cd48c24e21",
+              "12aa9f11-463c-4b88-9f61-c96aa1f57b10",
+              "abfd4f24-f150-45af-bf15-661021244788",
+              "00444be5-b4bf-4053-aa6e-9cf38735bbd5",
+              "67a8265d-c414-41f9-9101-faa041e80da0",
+              "2bfe590f-902a-4dd8-b7e3-f33e22c2823f"
+            ]
+          },
+          {
+            "Id": "3494c7bb-c52f-4018-ad87-600fc9877dac",
+            "Name": "Bez wibracji",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "5b722460-7bb6-4c14-b141-386ddd4917a9",
+              "c0f85ea4-3d7e-44a0-90d1-d7d007018424",
+              "ac0c05ca-1032-4085-a547-0786577b069a",
+              "3029fcd7-49c2-4a99-ab59-d82394cd9133",
+              "0809554a-443a-45ea-845c-2450a2d6ec09",
+              "e141d8a5-37ca-448e-af2f-9d7d463eba7c",
+              "c63ad18b-884b-45f3-be48-3d744e0f23ff",
+              "465d0096-5009-4cd6-aef8-8d89805795e7",
+              "d63c78d8-2d53-49e8-bf48-0dce74317b87",
+              "42d688d6-c468-4744-9ac2-38b2d6964a72",
+              "c153b010-4aeb-4de7-80e7-0a497774c2a4",
+              "34add0f8-7160-4f96-8501-02c01cfa4c03",
+              "74744f9d-2f1b-4e4e-8945-4499624e0ace",
+              "e31687dd-afae-4b3a-82dd-42289b9047ee",
+              "a7d5aaa4-fd3b-488f-8991-90d9727f2beb"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "ffb1934c-2dad-422d-ba0c-f40f3f293593",
+        "Name": "Masturbatory",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "3c50c922-943c-45a7-9842-44207ffcae96",
+          "12a8c4e4-a660-43bb-9b99-0b4766397d6a",
+          "27b862d0-6fc7-462a-bb7b-e7eaf3f35524",
+          "28af92b6-c2c3-4ac6-a3f8-24d7e1368c41",
+          "2f216799-85d9-41d1-a22b-3e361aa8d9a4",
+          "5e82347f-c650-4b56-81f9-4743394d9545",
+          "50178a21-d87c-439a-84cd-bac4ef7129dd",
+          "b5c3cc4a-7ed5-4263-871e-9b260185fc07",
+          "08a2c0e3-992b-407b-b3fb-00fcc81d04e0",
+          "8d0eccc4-8395-4e5e-8383-8a7e5073740b",
+          "a304c532-08d7-4923-91e2-f98d67d7265e",
+          "ac88900f-4116-44d8-9f01-c9c61130c84d",
+          "dcb4e9fe-bc7c-4bdd-8b82-54140ee2803a",
+          "e7dcc7dd-f546-475c-bd7e-66ea24e25654",
+          "60f2fe18-5379-4636-ba7b-aef338acea2a"
+        ]
+      },
+      {
+        "Id": "e25b6320-6bfb-4056-89ea-b11829870017",
+        "Name": "Erekcja i libido",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "2bf0f91f-985c-4063-be33-dbfcc2b33581",
+          "e39ddc59-07f5-420e-a6a4-a8949c68cc66",
+          "80bb0b27-c7b1-4f20-a00e-8eb6b0ec79a4",
+          "75551366-1d06-4f36-bb83-fc618c0e6a63",
+          "795b4a61-a2c3-433c-ac28-38103155048b",
+          "e8b60485-bde6-4ffd-882b-0bfe8a5b3e3a",
+          "440be4c7-5a86-4dda-a807-8724f0d6a9f1",
+          "d26012e9-9b64-4ec5-88ff-b911c6e74418",
+          "49e3d8e6-f60e-4a95-a1ff-287f1e414a4f",
+          "ad2f46e0-a1af-4c36-9886-8a28c28b5736",
+          "09d426a6-3fb4-45e6-95d8-4729b932b5b9",
+          "02699200-a17c-4427-a5ec-df2f3d89325c",
+          "d30c8405-897a-464b-af53-f56911ce048a",
+          "527cd204-8253-4bad-82f9-085303d399cb",
+          "0718abbd-03f0-4ff0-88d6-4d68f890ab79"
+        ]
+      },
+      {
+        "Id": "399ee7f4-fd79-4c70-95eb-87efa2d777a7",
+        "Name": "Powiększanie penisa",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "ed0d8dd4-52d4-42cf-8711-b6b1e1d610d8",
+          "2c0144a4-05a3-48de-91d9-2c329563946b",
+          "f2111dfc-0cee-4cb2-b7ec-ba6a8e7186e3",
+          "fcb4d050-987d-450e-85bd-859630ca5689",
+          "69954aee-b35f-4129-a2c9-d223a08ea5b7",
+          "2888d62f-d84d-4646-9e8c-17202c8c1742",
+          "3e7e8a43-6520-44c2-bb97-286d960383a2",
+          "867470aa-d890-4eaf-8efe-93e73ce4e4a5",
+          "9a6df74f-3488-4e6d-b244-1736b9106e58",
+          "524f3b61-24db-4f01-946c-670d52cebe93",
+          "50d7956a-c919-44e0-977d-2ac81878af75",
+          "888af3f7-027a-467d-a4f2-81f3469a38dc",
+          "066c227c-132f-4031-b131-8a0e63ee64cb",
+          "ac6cbaef-42aa-4a0d-a2c8-b19ef80bc9be",
+          "c04ca1b9-f292-4de0-a944-a67ba37932ba"
+        ]
+      }
+    ],
+    "ProductIds": []
+  },
+  {
+    "Id": "f8655ffb-8efc-478d-8d5e-04375c66fa38",
+    "Name": "Dla par",
+    "IsRootCategory": true,
+    "Categories": [
+      {
+        "Id": "996f7cce-aea1-4165-a92c-575abbd6ce04",
+        "Name": "Gra wstępna",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "5a1ee912-98d6-429b-a19b-d705a113fc48",
+            "Name": "Masaż erotyczny",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "1f928ff6-ee04-49f7-80b9-01e9f1cf898b",
+              "139ac442-df8a-4cbb-b41e-8672366ea12f",
+              "14e770c5-12bd-4c3b-955b-3ce916d42bb4",
+              "2f51fbf5-9856-41cf-9553-79609c466fa4",
+              "31c3d23e-8a37-47c6-955e-3886a26baed3",
+              "0d0d504b-cb19-41ec-a674-1295a5c37cea",
+              "1f6c26d9-bffe-4e4f-bdc0-9a1efef917d2",
+              "d373338e-b800-422f-bcf7-7cbe0f57c53f",
+              "aa12341e-5384-4fbf-802a-d9dd97772a52",
+              "9f10f474-0b87-40b6-bac1-46fbf0c0f6fe",
+              "02666470-f9fa-41b6-92e7-9c2c9a9ab8b8",
+              "36661fec-2bee-4be8-bae2-fa1d2f6fb773",
+              "7159cd64-512f-4f0a-9564-8e3ae99e3e2e",
+              "864a5f6e-2abc-478e-bd67-0d6cabcd7fe5",
+              "efd8dcfd-b838-4d47-904f-1fbff58162c7"
+            ]
+          },
+          {
+            "Id": "4cbb41e7-7125-4834-bd25-a988aaf9fe8a",
+            "Name": "Kąpiel erotyczna",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "1a98ea8f-31ad-484e-90ce-8c26309b5608",
+              "4233472c-bf30-4942-ac3d-a9ff90a37653",
+              "1e0be0d9-2ec4-469e-bdb1-887856d8800b",
+              "3683b53d-1a6e-478c-b339-ed5ac4e476fa",
+              "30637387-4bb7-4df2-bc7e-8e0403458010",
+              "478e6448-5b16-4371-a0e0-18dd2cf83ef9",
+              "e4915619-9482-4e45-bd7e-3d52bdd58a7b",
+              "baeae5d1-266a-4e38-b8a0-0280664ef29e",
+              "1cd22a77-ecab-47cb-b0ca-815e500c63bc",
+              "7254124d-60a4-479e-b65c-dc1f3f634f66",
+              "1609cf85-5c62-4f05-8486-54e953b07fc3",
+              "b3c0fbb0-bcfa-4444-86dc-bfa60f2e6d58",
+              "d2456cc0-73c9-448d-b453-4c116ecf7020",
+              "a80a2cf3-f97e-4ec4-b80e-e70410bb19ef",
+              "064d51d8-0c02-4dfa-90f5-5c37ef5a0ac3"
+            ]
+          },
+          {
+            "Id": "2ccf5ac7-405c-43ad-846c-51c38373e8b4",
+            "Name": "Dodatki do gry",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "a0ecab33-eefe-49af-a1a9-11b267564c82",
+              "bcc00e0f-2a11-43f2-b9b1-51e0425a9345",
+              "3bf21aff-84a4-4971-8204-b7d84bc2b0f6",
+              "adc3afb2-002a-4e18-ba93-4ac5c12073f3",
+              "7dd4d0ae-21b9-49bb-ac61-4d576ba63244",
+              "742bb9e3-f847-4ba7-be48-1e4adf533bd0",
+              "cb2aa45a-607c-4c3e-99b0-e33443f2c7e0",
+              "5d0427f9-31e9-410f-92be-2c004e5f3e34",
+              "2c833a61-5b1f-417c-855a-8eef9dbec51f",
+              "00c6aa86-6658-463b-bf8c-6960837f0f14",
+              "342e67b5-581f-43b8-adb9-4b1bef021660",
+              "d071bcdf-b18a-4aa4-8e5a-1278b347729b",
+              "a77fa17b-e365-466b-843a-fb61c73ab4f3",
+              "d64c4cae-bb2e-45ec-aa3b-59d58178f38a",
+              "564ba41e-eb09-4ba7-bb1a-4a5c07661e74"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "e99e120e-885e-45a8-8755-b61d25cd96fb",
+        "Name": "BDSM",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "b64f6a30-fa80-436c-a259-f52fe87d3fe6",
+            "Name": "Zaciski na sutki",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "5a861cda-840b-4a80-8214-95bce8b385eb",
+              "c7932c35-21ec-45a2-b3e6-69a2cc2c8f40",
+              "b2e19b87-5464-4f2f-af82-178da40d08bf",
+              "8d5bb9b1-8bfb-42ca-b754-de289c4d78f2",
+              "290f32cf-139e-4eb4-a46c-3583620dc8b1",
+              "3e704002-798f-469d-943e-e745b9437163",
+              "777a84c2-e93f-4719-aa17-988375f5ff99",
+              "0a9c7dca-139f-44cc-b361-a5605a34690b",
+              "d809421c-8395-4c8d-bb80-4dfd6693e4ac",
+              "921d38c2-bf95-4327-96ec-2f7f85af2e68",
+              "d4e27e18-9208-4c9f-90c7-1b4ff78d9478",
+              "d84c927e-3796-4975-800f-25dc11d04c94",
+              "8c4245ca-f62d-48ee-b4a9-55d53738b078",
+              "2f3ca6e8-d370-4885-ba14-625bad41ac58",
+              "0fc6b3cf-387b-46c0-a909-e027b92f5034"
+            ]
+          },
+          {
+            "Id": "43944e17-6e5e-40e9-8e80-93e03557b7a7",
+            "Name": "Pejcze, szpicruty i packi do klapsów",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "fc4d880b-b6ad-4ff6-9b2f-95f8603e42b3",
+              "e4f3b6d7-8cac-45e9-81e8-5161aa2684d2",
+              "75ae6d79-f23f-46d7-b663-e153dd225501",
+              "43db5e61-efcb-4de9-8c39-b069eea3960b",
+              "9375870b-c0d2-4147-9f0c-5e1513296453",
+              "011bb219-9744-4496-8a87-d2a30d235d38",
+              "3461ef1a-92db-462c-8424-09a442e5a70c",
+              "bd4db811-5322-4505-8a3a-39daa4a2f700",
+              "0a75b754-33c4-4410-90ac-deca59f28557",
+              "1cad0913-0dd7-4bb4-83bd-1cd20f7569e5",
+              "d7fe9229-f32a-40ad-a248-9abe5eeb645e",
+              "ea6385ec-e40e-4cfb-85ba-46b0f89da2bb",
+              "77ae38ce-7432-4667-92b5-ac3fc7d092b2",
+              "f862c8c6-7713-4593-b493-3df3e70a7936",
+              "8f496118-56d0-455c-8edb-b079e3a93425"
+            ]
+          },
+          {
+            "Id": "1c60284f-ce14-4499-ae98-5238ae5749ed",
+            "Name": "Piórka do łaskotania",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "9a81bab9-3fb8-470c-982e-25aace546ad9",
+              "9ac32339-ed29-444c-9c58-a8925426125b",
+              "45d2dd86-7edf-4ac1-b9fb-0d875d92f728",
+              "8a7809c6-bd03-4a72-b60a-99c1acdeea2b",
+              "55efdd11-e7b0-4d31-abc8-fd72e05d02f4",
+              "44b87b5c-f41d-4bde-b61a-00057196770b",
+              "d5dcdd3c-a906-47f9-b9d4-b26e33e4921e",
+              "5fe760cb-5a20-44a7-90a5-42d31137d17f",
+              "685719f8-c4fc-4df2-8b4b-73b30d6941a2",
+              "31db4750-db9f-42e6-81d9-71448b9ae066",
+              "63e91f48-9823-497e-be53-900b36c83b1c",
+              "b4f7d5d7-c89f-4f55-ba2d-3dd149eb86d8",
+              "9484570c-521d-47eb-80c6-14f5c4d24a3e",
+              "b565668a-fe6c-443b-89a3-b7b560b5296a",
+              "73bc0b1f-25d4-4d35-8bc6-8fb99a84c12d"
+            ]
+          },
+          {
+            "Id": "a6049ad6-656d-407e-a27c-ac8f7e3bf6d4",
+            "Name": "Kajdanki",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "edae2052-b5e0-4f79-9cd2-61edb4c5e7b3",
+              "2cb18b0d-462f-4a6d-8164-eb533d56d5df",
+              "f256cc34-f0bc-4a90-bd8e-c372d00c860b",
+              "88afbc94-3a4f-40bc-b9eb-c6bf2f401c60",
+              "cc9a58cd-ac33-409c-a695-6534ec5c1743",
+              "f6693a20-74dc-49fd-96dc-c27021931c86",
+              "1b8bff63-4b4c-428a-9522-53c517eaff12",
+              "1cc77e6b-c779-499c-84d9-b2799d2dac37",
+              "1c4ce43a-4029-40be-af76-79838cb3ba61",
+              "b82fa77a-5edd-4c39-a7d8-143100efee43",
+              "5f464b98-9702-4276-a6a9-b3d9ea6c09e0",
+              "e8db45f3-cd04-4817-a313-e83c90c0d355",
+              "a7f88d1b-e097-41cf-a0a4-168552bcedc5",
+              "fc6cb2f1-6cc3-44ff-96c0-dde8bbe75826",
+              "e10bdb22-2f8a-4b4a-8187-afcbf03cd847"
+            ]
+          },
+          {
+            "Id": "93a968e3-d20f-4fd4-bdce-b9b116c91cbb",
+            "Name": "Akcesoria do krępowania",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "f887dd8b-1705-4201-a788-57f51e3f4a5b",
+              "4511b9fa-097f-4622-9eb8-47c9bb3b8e8c",
+              "af1de101-4818-4591-a909-ca33bdd150b5",
+              "0ba1c499-34b1-46f2-9052-90c415a18e87",
+              "077525e3-f606-498b-a9ba-83f1197fd6c0",
+              "0062247d-5e5e-4bb7-9c1e-df212ed2160a",
+              "b4ebcee6-afbd-4cb8-bcd9-592db0f71a50",
+              "c9650019-d287-4cf9-b218-d29fe6cae3ac",
+              "9aec8b9d-4ced-48b0-802c-343826a77ee0",
+              "f70a5436-ae71-432b-8eaa-d574cea45c4c",
+              "d777c160-87ff-4e07-8b06-931c17b10e2c",
+              "44ef2e47-2649-43fc-8630-5a14ec786d58",
+              "a0227738-69f4-40eb-b05e-4b7b72d00625",
+              "ca63b6d1-f65e-4cc5-94c7-396ce8b91983",
+              "0f97a216-0526-4040-bef8-11148acbe749"
+            ]
+          },
+          {
+            "Id": "daccc41f-e9c3-4374-ae25-97e9cff33b4c",
+            "Name": "Maski i opaski na oczy",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "df2bacc0-7644-424b-9202-e91f889cc3a5",
+              "d2734238-e67d-45ef-82e4-1425a1bba3f2",
+              "e500d3af-af01-4dbb-819f-367e894f8e4c",
+              "a47c8440-b208-4d84-a385-3d462a0649bf",
+              "bfbfe57e-cc21-4372-b6a9-2c2540f19209",
+              "d5d8d2d8-9534-4a03-97b8-eb2a8a499ed7",
+              "8aea7525-2936-4822-9d2d-7c226ee5cd4d",
+              "d0e0850c-aafa-444d-b848-124e224bf88b",
+              "1e2672b2-3f78-4bac-9624-c051bab2369e",
+              "e72eb909-ecc5-4b1c-869c-5b8d687df05a",
+              "f965ab90-8af1-41f9-87db-fb09634d456e",
+              "c1fa6375-b859-421c-8622-702e83786c59",
+              "6b050ad3-bab9-4c23-b2ef-cb7a8f0b60ac",
+              "68096927-7279-4c36-adb0-d6cfd60b57ce",
+              "4ec87152-b281-4637-901f-d5bd91a301c6"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "e2079e1d-b570-4067-96db-72544c0417ec",
+        "Name": "Seks analny",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "f1708a86-b91e-417e-9c62-801cb6720841",
+            "Name": "Korki, zatyczki i koraliki analne",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "d199c09b-f66d-4038-a7c9-9e54e025c13a",
+              "d0f080b7-e8e4-4d5c-b0a8-a5e7481e1f4b",
+              "497c63b1-73f1-4a7b-b5ad-341a874281b9",
+              "a17c3512-a846-444a-bd6b-5effd9ae0d3c",
+              "e15b7247-a86f-400b-933c-15866a46ab05",
+              "9e7af6dd-b821-42bb-8c84-b96b5265f672",
+              "c6c693ec-fcbe-4a43-9b3e-d49bae1a156b",
+              "51f8beeb-bff5-4d9f-800a-d59acb6a03e2",
+              "c7d20f4d-f60f-4044-9967-ec6f24cf3cc0",
+              "0f454a9b-838c-48f0-a0d5-27b3c30ba588",
+              "0fb50a63-f601-4f16-aa0a-19a451c07147",
+              "be1af6d5-a57b-48bb-bd7e-f1ce86a3b767",
+              "69c0d0b4-7e43-43b7-9945-8b98d141a7c3",
+              "e5893d9c-61bd-4798-883b-88fd2f4fad39",
+              "ea02dbe9-3c83-4b0a-89b8-8a9b2b1d644d"
+            ]
+          },
+          {
+            "Id": "31a9c138-612a-41ac-99be-1fb59f93ce16",
+            "Name": "Wibratory analne",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "8c7635a2-f661-4ebd-a76b-c91f5027489d",
+              "8e9462c4-2129-4785-9fae-ff975a59c820",
+              "4e251016-800a-46f1-bf0f-9b34cae70f7c",
+              "818f7274-5044-4808-8bce-8ce7bdc5cee8",
+              "0ecf10e1-605a-45a5-81a4-e6b7588e21ad",
+              "15c26489-8369-431b-9d94-3dad3053e303",
+              "6612024f-ad45-4bf9-bf2b-6c5dd0412726",
+              "e79e0acf-0eff-4332-9a60-cf5220e3a118",
+              "7c005b9c-c85e-4324-9b53-0a94e34ef906",
+              "ca82ed72-cffd-449f-b32e-4d33f2b03b52",
+              "e86be6b8-6f2c-4dc6-92ee-b8221d0f9afd",
+              "c3d84685-9288-4340-8649-78ffabeeb8af",
+              "9c52fc5b-09e1-4690-8327-6311bb438767",
+              "06450737-e4de-4975-aa83-15afbac1b2d1",
+              "741b51f8-c0db-4857-bad2-f03e06bfd4d0"
+            ]
+          },
+          {
+            "Id": "7d641452-382f-45a5-81eb-d08199c8b363",
+            "Name": "Masażery prostaty",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "99510804-99a3-4984-a28c-3436f6e05528",
+              "10a13b97-3562-4552-a9cc-13b458e4369a",
+              "de0c0fde-6c2f-4b69-9347-6eed72909c08",
+              "077d0ff2-1862-4e02-95aa-2ed676ef11b1",
+              "b0a292b1-e3b2-4dde-9db4-e6e825e943c4",
+              "f133c64c-8b32-49ce-a9fe-2ac2c0f472b2",
+              "d401dc9d-8c40-45d1-8e8c-6dfbb51398d6",
+              "a3c29e72-ac7a-42da-86f0-cb20cb845cee",
+              "b05bea95-7adb-4ed8-a1ae-1c68463bb10a",
+              "9a3f6253-9929-4568-b816-ae3b5994228e",
+              "3a4906cf-423b-4988-9c45-94b4f522c89a",
+              "8a76be7b-d197-43c7-b63f-c3fe4843fffe",
+              "ddeac57f-f6b5-4212-a33f-f646c7a1df42",
+              "e0c264a8-ca8e-4a03-92b0-9de16ef3bfcf",
+              "93e7bbc5-8f32-4a39-8010-7a3352512260"
+            ]
+          },
+          {
+            "Id": "73ec85be-7bae-435b-a68c-6a2f3d5da63a",
+            "Name": "Higiena w seksie analnym",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "140e6060-7cda-435c-b890-75c9e20d21ae",
+              "cc31a9cc-4c49-49ed-b6a5-1d647f1288de",
+              "97210c86-7c6a-413f-8c7a-8be234be6e96",
+              "95c20345-65bd-4969-a41a-9038888e3fa8",
+              "95e1daa3-fe6d-4b0e-adf9-8628e94b2c80",
+              "ad5f74d6-1923-4a1b-a4df-91de0ce098c0",
+              "e6140452-27a0-4d56-9dd3-824e70ef24c6",
+              "64c2cd09-b023-4a01-83ce-f57299044a4f",
+              "25c669bc-5d21-43d4-847a-277c06c9642c",
+              "4b4c2401-df3a-4278-932c-4d1b4a7d6193",
+              "da89003d-f029-4777-a67b-df02ca1e4914",
+              "1c5902a7-d122-491a-99ba-00214af8078a",
+              "3bc4b41f-b23d-4b8f-b9a0-958a2df52fb8",
+              "8c94c5fe-951c-4f76-8cba-c110183f2bef",
+              "dc894880-9d80-49d7-911b-1e3c80758f9d"
+            ]
+          },
+          {
+            "Id": "f2ed5839-b261-4dac-bc67-fc7b545f2c49",
+            "Name": "Lubrykanty do seksu analnego",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "2869ce3b-1bef-4412-bdaf-22e94b44d401",
+              "329aa1b8-7c25-4eb0-9a64-da04916a2c6c",
+              "f1c1ca74-688a-440e-a343-a84208ecd1e4",
+              "e15f61c1-4f5e-4a24-83a8-17c8edce3efd",
+              "953fa2b9-0d9e-42a7-8a94-f92df46350d5",
+              "d01c5906-ae7a-41e8-9686-dfceee9f18b9",
+              "420819f4-c220-4bfa-ac17-53425ada962e",
+              "1369f0cf-5e72-473b-9556-da04847103ab",
+              "cf8f67b3-15f6-443b-bc57-058aff3aa1de",
+              "b44a48cc-e721-441c-86c0-49f368cf8780",
+              "86104160-b62e-480b-bcff-48567939bb96",
+              "92d6dec1-00f2-423c-bcba-f515e5518656",
+              "5a7c65b1-a895-486d-83ea-90fbea92bf75",
+              "3b0722f0-a597-497f-8e48-5d3e656c20fe",
+              "ba717278-9547-498c-9f8b-63476a48fdb7"
+            ]
+          },
+          {
+            "Id": "07e92bb9-8ded-400f-bcdf-33f7c23e3052",
+            "Name": "Dildo",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "66aa0330-cb54-4879-a9cc-e38c10673939",
+              "7d4f6bd4-e776-4096-8e89-33603c9bfe6c",
+              "c6b1e71f-bd9b-446d-a1be-2885c99417b1",
+              "1b6de0af-5812-4b83-bf00-46d246827911",
+              "8389d9b6-f83e-49e0-9d78-225d6307d5e8",
+              "9830ee97-8383-4e1b-a79e-de45adffe500",
+              "23e801df-671e-43c9-93d0-36fede44ccf6",
+              "fdb50e3d-0d8e-4902-bb9e-6a09880cf0e9",
+              "956a47cd-5c0f-4c9f-a715-9453b0c05d69",
+              "97686fa9-fe66-4037-ae5b-8882faf905a0",
+              "e1797a1a-1a5f-4c85-84fb-44264d5ea083",
+              "24b14bcf-5f1b-4e8c-acca-c370f4808630",
+              "2043bc6b-5da0-41ee-bf9f-cecb1be5dae1",
+              "fcd09b3d-28f7-4b32-8477-cf7549bac4e7",
+              "2d9602d9-5b1c-49fc-9673-35d63cd732e4"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "52dd3456-2f97-453f-a4b0-80b06f13d764",
+        "Name": "Seks oralny",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "1913e0d9-1144-4673-81d6-fbccd6106acd",
+            "Name": "Żele i spraye",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "f62931b0-7631-46df-babd-b2d638e9427a",
+              "286654f9-6e69-4279-8b31-1283c91f1bae",
+              "a337349b-3cdd-4e9c-9a46-5abfd675ed8c",
+              "b7cf4ea2-7403-4c9c-aa61-2b7393ebb57b",
+              "d0210f4e-8234-4791-80a5-86731185051f",
+              "b8a26b58-78de-42b9-aeac-d51cd369f7cb",
+              "683f736d-96b6-410e-936d-252a72384c51",
+              "285e9867-0831-4fc8-9912-c1813fd9a789",
+              "ea5a3cd8-2f3b-46b9-a5f2-13ad206f3f8f",
+              "11965178-73cc-4ae0-b897-0a0217c27f44",
+              "0735c707-e0c5-4372-ad66-b9c108c3064f",
+              "4da451fe-17b3-40a4-a918-1e99aaddb550",
+              "e022d9a8-ad60-4acb-a40b-f5ecea9d01a1",
+              "b274f443-eb69-4425-b9d4-ad52a090a404",
+              "654ddda7-04e4-4c82-b4b6-920cf22eeb87"
+            ]
+          },
+          {
+            "Id": "32bccaac-7a4f-48d0-ba3a-843635552d8c",
+            "Name": "Błyszczyki",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "2968e0e1-9dae-4c64-952d-69cf8cf70c98",
+              "b9277fba-895b-49e2-88a7-28e352efea44",
+              "f31de577-fb46-41d1-9433-57013ceca80e",
+              "132a0e4f-a8cc-43b0-889b-d977db4abf5f",
+              "e8ca6b20-788f-4c35-95e4-54d213d9dfa5",
+              "55fa3915-49d4-465e-818a-7a2b06b9b77d",
+              "0866bb34-c419-4723-97df-f45bc947a8f5",
+              "eb61500f-7f42-4d96-a684-21b57187a647",
+              "69c4bbbc-7378-405d-b5d0-01033737c1a3",
+              "8ec1b0c1-8a35-4328-9837-9dc184033d64",
+              "7faea4a4-818f-4cef-8bcc-496c51ae9f28",
+              "97000618-8112-44b9-83c9-0d4074617d5b",
+              "76b1c16b-cc14-438a-801d-8479b7f40329",
+              "9c09c50b-5121-4e69-83d0-ed453b317d0d",
+              "f973ed13-9f53-496d-be91-53b0b9235e96"
+            ]
+          },
+          {
+            "Id": "d7a4852d-6415-4d4c-a47c-471750df8586",
+            "Name": "Lubrykanty smakowe",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "f226aa49-57d0-4321-9e21-3ebd27eac83c",
+              "5e3dc344-dd5c-43b9-84de-27503308f54d",
+              "f483f6e2-50aa-4b26-a798-6936297f34e3",
+              "cc0cbe1c-cf80-4ee7-9e5e-5556be187f0e",
+              "7fec1ce5-81c7-44d8-bbcb-4db6b7a80f77",
+              "565cd039-cbec-4e49-a913-d2ca123ac4dc",
+              "b3e291ac-868f-49c8-8242-c21ff54891fe",
+              "167993c9-4c84-4391-a7d7-61c42d295cc3",
+              "58959a83-ae78-4a22-8052-f6f9bbfce955",
+              "660eafcf-7c5b-46a7-97ee-dfbdaec03cb1",
+              "4b54e902-9fd8-4784-97a2-f911080b040d",
+              "c7058f69-fdb9-429e-b732-1111f555b512",
+              "e3ae96a8-e3ae-4154-a688-0b8b18a74e8d",
+              "218a1d80-22be-4b8f-b1f5-4b1ed9a2ef66",
+              "756cecb8-2d14-4f51-b54a-085b537af155"
+            ]
+          },
+          {
+            "Id": "0d0f9b7a-dba9-4809-882e-dba89b7f0778",
+            "Name": "Gadżety do seksu oralnego",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "1bedb08e-dbae-4aa2-8c2a-613a956df658",
+              "f1335160-9ba2-466a-ba01-de9d1c50d15f",
+              "cf2939a2-19bb-4ecd-b20c-8939e5787dba",
+              "ae0fbb66-d85e-4edf-b1d4-521d7b8f94f5",
+              "efc74d1e-77fe-48ae-84f4-3c32a8df49fc",
+              "0bfa2e13-2afc-441c-bd72-b03d72b805dc",
+              "d973dfe6-944a-4190-ae54-b3c1fc5e3fd6",
+              "a7d6919e-7614-4d41-b9be-a009ce04bbb8",
+              "300bb42f-2ace-4182-995e-7c2bd7cb6912",
+              "2ae6d987-94bd-475e-8e04-6f9b028aeb42",
+              "98888b52-10cc-404f-95b1-8af623faa82b",
+              "7c8d47d9-d777-4c92-926f-b77ddb7c2a50",
+              "afeb34d1-3686-4d3b-be89-c87ca1f98635",
+              "c8880be1-3764-412b-86c4-300d279994ac",
+              "a81b75c6-e331-4157-abbb-4aa814cbfcab"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "8ccdc57c-d794-460a-a553-fe704ffe4880",
+        "Name": "Pomysł na upominek",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "2e38cf9a-9274-49da-a346-f47f87dd5297",
+            "Name": "Zestawy prezentowe BDSM",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "755a0380-4659-4dbd-b053-879f1308498c",
+              "dd4c5d82-5b98-4add-b83c-c6bbd777dc38",
+              "5028ad9c-35a4-4b77-8e5d-f8d9cbdf59a4",
+              "5112f4d7-fb00-4a77-a10c-65ff62bc16a2",
+              "ff5953cb-af40-4ac2-9660-d9cbcf90aa87",
+              "8fa4ac30-12fd-4b02-a3ff-48fc9f1ec585",
+              "8ac79bcc-41f4-4992-b0d1-4132d148b965",
+              "affa7101-b6a8-494e-bc36-12ac0287fbb0",
+              "85a27e76-72b1-414e-9dd5-ea6561d80855",
+              "ceaf3dbe-ccea-4ffc-aaa6-cfde35e7523d",
+              "255cc2a2-e80d-48c7-9864-5dcbf4ae4f95",
+              "a3251941-8eec-4751-928a-64632374e30a",
+              "606b2ea0-d0fe-4e23-af52-5089971f8dd6",
+              "aa5f50b4-49f2-4015-bf0c-bd3e59d467a2",
+              "df99ca48-7801-4bc3-a5ac-778e2153b258"
+            ]
+          },
+          {
+            "Id": "339e1d6d-252d-459f-a803-7a59c4338593",
+            "Name": "Zestawy prezentowe do gry wstępnej",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "b1ff38fb-cd64-4acc-b642-f9b5a3eea004",
+              "a18969e9-af1d-4b9a-bf0e-1b3553c75e16",
+              "95e4f041-e79e-4de7-96dc-b5fa9021bba5",
+              "2fa4e36b-ca57-496e-b349-98992c06b2d5",
+              "59cd6545-2d60-4de7-98cd-4651d75901b2",
+              "505e4833-14b7-4120-b65d-d117cae014c5",
+              "9ab4aee7-cf09-45cb-9692-e739bcc2a503",
+              "335227e7-3fad-4e79-b90b-8744fe69ee1d",
+              "2a2fbe09-4220-4de3-8dd1-0295fbec5846",
+              "b90feff6-9d2e-4123-b6d7-ea34c4ffa01c",
+              "93b891e2-374f-45b3-a100-001153c61d3f",
+              "de7de6bb-ef56-4edc-9025-0758d31a0747",
+              "8cf3732f-c064-47e3-9948-0d81d17ccf59",
+              "4fdf338d-1ca7-428e-83a6-31529e9c8503",
+              "700dd3ec-88de-4477-9084-560649d9d1f7"
+            ]
+          },
+          {
+            "Id": "450962b5-b92f-4ab3-96ae-844017e4e3ed",
+            "Name": "Upominek dla kobiety",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "aa53b1a2-1d3e-41db-81e8-533cd3c1c72a",
+              "e45ef2ca-0a7e-4eb1-badb-a0213c8eb036",
+              "5cb1439c-56a1-43c2-bb7e-8493e1636e43",
+              "e73c35cb-17c7-4f51-a3e4-58c9a5040fb4",
+              "0e456310-ddda-46e1-aae0-be3e7dd5d795",
+              "3e3ff82e-2c6a-4a57-a7e6-e73c853a9c91",
+              "47aacfe8-d14d-4f43-8f92-4f12c305b451",
+              "280594ba-2fee-49cc-8fe6-4320718e1d78",
+              "d745157d-9368-42c5-924f-cf4c041a2daf",
+              "69859fc2-ac77-4cfe-a2e2-bc92365ea427",
+              "135448aa-b24d-4a32-8b92-0ca063c172e1",
+              "56058b72-dc18-4667-8186-445a6471fa6d",
+              "643c278c-5e26-4959-a1aa-55623a1b7935",
+              "e5962587-193e-4b25-963a-5a046eb61d4c",
+              "a6c1f763-e5e5-411e-adc4-18ba0c721327"
+            ]
+          },
+          {
+            "Id": "9e9a08fb-61dc-4aab-ae7d-c251f4869bf4",
+            "Name": "Upominek dla mężczyzny",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "575403de-cb4b-4890-86fe-df3674b39ece",
+              "bf658c05-d5d9-42dd-8241-e1c25f740456",
+              "e1a51154-38d7-4918-8de2-e739253f09aa",
+              "c1941547-1626-486a-907a-5958271a9a03",
+              "577b67ba-9c90-45ea-8e5f-cbbca2562079",
+              "c72c878f-8266-44c9-b836-ed47967155c8",
+              "f0f3943e-9431-4341-bfa5-351d1be21415",
+              "bf931ded-b680-4708-8a2e-4b59bc942b41",
+              "a95b79b4-8336-4b73-9c33-a5371d508a57",
+              "b02123d3-5ffb-4801-9678-df5730464cf8",
+              "434efb6a-7274-4d82-9488-1d36f9b30696",
+              "5ffd6671-0553-4b0b-9382-9ceacba2ed2e",
+              "d63f074c-bbf1-4f45-bc36-d166da03a856",
+              "7915a264-b323-417a-8b65-6cca79a3608e",
+              "fea6c822-25db-435e-8dc4-d3bdc2c4381f"
+            ]
+          }
+        ],
+        "ProductIds": []
+      }
+    ],
+    "ProductIds": []
+  },
+  {
+    "Id": "da7ffab9-e068-43c3-9388-04ee949f25a8",
+    "Name": "Wibratory",
+    "IsRootCategory": true,
+    "Categories": [
+      {
+        "Id": "d16d49fc-d8da-4eaa-86cd-1c24b9c6a0ab",
+        "Name": "Klasyczne",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "b4b46538-9818-4495-b66d-850e935e5a8a",
+          "fa81615b-e0cf-4314-8cc3-882659749bb6",
+          "f64c4629-768d-4b13-9031-77a2c56455bd",
+          "d9a00f8c-2711-4f42-b3e6-8cd57f238018",
+          "dbbd15ba-cd6f-4dd5-a9b3-06a5323065d3",
+          "a90bd4b6-c2c5-497e-9b94-f87371f2c7e5",
+          "b5ad58e8-45f6-4b64-b971-cce384866072",
+          "6cb6a42b-d097-4103-bef4-da8b024ff0ff",
+          "2ed01855-8a4b-4269-8660-bf978c9f9087",
+          "1aee7b44-cf41-4708-81d8-5a25fe838a3f",
+          "cdea1ab7-baed-49e3-b759-2b8e7a4afc25",
+          "957c492f-8b11-4abd-bdcb-ddcc6d8e8748",
+          "95e59374-169a-4db8-bc35-61b8194e357d",
+          "abd4f115-a3ba-495c-a9c5-5b08a2d44d82",
+          "9f5db898-ea64-40d4-b4d2-c8095935f660"
+        ]
+      },
+      {
+        "Id": "a57ca55c-99d6-41c0-94d9-d3a57e0642ad",
+        "Name": "Króliczki",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "e1bdb6fb-f81a-4750-b7a2-69c2bfb9d9c0",
+          "68fbf22a-9a04-4940-8cc0-cf7b30f727d3",
+          "413ac349-7285-41cd-b692-3fb050046e04",
+          "44d907bd-c94e-494f-9dcc-756a64613680",
+          "edacafeb-07fb-4b25-aafb-29c22d82e113",
+          "07c3cf75-010c-48e1-a543-c22e1c900a01",
+          "abf9ed12-302e-4823-99fc-2bf2b4e17d20",
+          "72decef0-c27a-49c1-b1b7-72fe3b458b8a",
+          "831434ca-7db5-4033-b3ec-ab349658347b",
+          "1618ae90-cdba-4d45-85fa-55b6a17534e4",
+          "8f444525-1180-4ea8-a700-f0190672af18",
+          "a0b7cb9e-bdfe-4f4a-939d-842cdaa11a26",
+          "95fc9401-5c7f-4aa2-86de-3bdf86f36c84",
+          "ffdef700-dcc9-4304-ac56-015e7dd65dcf",
+          "b500d9f4-6086-4bdb-b985-53850f9a3271"
+        ]
+      },
+      {
+        "Id": "c699ee97-9949-4f13-b55c-4cc4f5c01d4e",
+        "Name": "Masażery prostaty",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "020b1861-6a70-4322-b382-6a66105fdd69",
+          "cd886275-6e1d-4754-9d48-e3d5df11b8df",
+          "ff22cd80-5451-4298-8c78-53a6823c350f",
+          "95254bc9-bbda-49bf-8625-e34401bce520",
+          "b865d556-60ef-4e78-b655-0e0574f26ff9",
+          "b8f4c6f6-27fe-4889-ab65-6ab4ca502f5f",
+          "f4e31c20-60e7-45a5-a433-3cf63b0f57da",
+          "31e8b048-8f9f-4dff-8725-066031c07a3f",
+          "3c1b186f-1633-4492-b0c3-2d2405cb9c9c",
+          "c7f3a659-d5ca-40ff-9321-c5b52cae318f",
+          "e7ef0b61-c981-4e4e-aea4-eb73f184b202",
+          "ca097b91-6b2e-4610-964d-c901889f0b64",
+          "10cf70c7-09c3-4f72-a51b-27b0dfb3329b",
+          "931bd0ae-f331-4e01-abda-53a2fd7e36c0",
+          "aa648858-9d2e-42ec-ab92-153e5645135f"
+        ]
+      },
+      {
+        "Id": "c1517baf-79a0-4ec4-828c-4bff7c9d2379",
+        "Name": "Miniwibratory",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "5a911684-0056-425b-aa91-91b6ea396103",
+          "89464b2b-a559-4ec3-beeb-eff8af74e069",
+          "01256883-1890-4f87-9fe6-ea24a34bcb3c",
+          "ef15c52d-d357-4361-bbaa-4e6af7d7946c",
+          "521f3c5f-2367-455d-bf8f-8e065de9380d",
+          "3c4d8def-692f-4b38-a25f-4b2c546bfcf5",
+          "ea2e334e-0206-443d-9dee-6103bd222dd3",
+          "37dc6ac7-9728-441c-acf4-0ff548418724",
+          "7dcecb91-59ae-42f5-9a2a-f39e9d015d4d",
+          "cd0dbec2-69e5-4792-9caa-9f2d560f6893",
+          "2538a968-96ef-4f57-a972-9084818d8c88",
+          "e68c9dd4-afd5-4740-8278-05d6c5ba87c8",
+          "48523e06-d105-45e9-abf0-7a67bcdad724",
+          "9fd93654-236c-4d92-b5cc-3ea32dc09568",
+          "e22c7bfa-ca61-49ab-b00d-2efd809af859"
+        ]
+      },
+      {
+        "Id": "09c32106-e486-42e5-9007-492da1db55f0",
+        "Name": "Wibrujące jajka",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "356e7cbb-eb62-428f-986b-34bca49638a7",
+          "f67723c0-ba9a-47cd-a83a-1adcf3d6030e",
+          "6256d0ec-5beb-4666-976f-bc00fae3b448",
+          "2d8aeb61-fe1e-40f9-9ffd-7f5ba046d636",
+          "f5db2385-644a-4e48-bcd9-7e1d6fd57de4",
+          "95b97c4d-5275-421c-b875-828d8a84d929",
+          "c74ac522-b73b-476f-9c20-85f8cc35c178",
+          "1aa55631-c41a-4d08-92f4-ccbe0b155392",
+          "6b0a9be0-213b-4c88-9c8d-3c62d1973bcb",
+          "226aa5bd-f57f-45f5-91f4-15fab712629f",
+          "131d37ad-75f2-48f9-9a92-769d4203ed02",
+          "c0874bc8-547f-435c-85e2-42d0cf1f0a37",
+          "b57623fb-79ca-4dcf-9572-7ac255da9976",
+          "1c32ecb1-9ebf-4269-933d-f118b5222cb4",
+          "5f149a42-ac1b-4534-9ed1-749edf60d52f"
+        ]
+      },
+      {
+        "Id": "fe62eaf5-6a2b-4ebb-9b95-9453bd8ae837",
+        "Name": "Punkt G",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "03c66625-5097-48ef-81e1-c2071709950b",
+          "d47180a9-3fba-49b6-8d0a-04922c28c30f",
+          "1c436ae5-9a28-4c4e-8f6f-8750cf11ddfb",
+          "ffd33cec-0048-4099-88e1-7ffdafca5a36",
+          "4d5ae08f-06fd-4efd-acdb-b2039ec37c9e",
+          "f4b52897-8cc6-4d0e-b466-31b32f6bb90b",
+          "e866a058-8514-4e2a-8ff7-97ea75b60e04",
+          "b5ed9bec-9e36-4df9-98c0-3f7c1b081b83",
+          "80990d2e-e568-4c31-9e26-168f8230aa6d",
+          "4385b76a-501c-4552-a98a-bac00bd2a4dd",
+          "a9b96734-baa3-4a03-b0b5-e5912b76bde6",
+          "ae8851fd-1178-4c61-aa54-edff4a74e471",
+          "fa6f9219-88ad-45b1-9dc8-81d7c501297a",
+          "b341eec8-bedc-40a1-8f14-818a7647d0b6",
+          "2de6198b-4bbe-4eb7-80d8-4d6e116c2fed"
+        ]
+      },
+      {
+        "Id": "0ed7e714-8f07-424c-894d-340a7d33e047",
+        "Name": "Analne",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "e0f39bab-dd47-47cf-9411-aae8966d8548",
+          "0ed16dbf-3096-4e52-a198-fad8275e66e7",
+          "7853c540-9441-4beb-ba3a-d6e41e8539f2",
+          "b4d8c92f-170a-4239-bb4f-e3d2c531bbe9",
+          "9de08d5b-2a06-416f-b3a5-8aeffd0fee1b",
+          "cabaec7c-4744-4c26-9356-b305d7ed354d",
+          "1265e7c9-d724-4fac-b1c6-60160a491133",
+          "b486ba66-27bb-4f27-ace4-afd0c707e20a",
+          "75802de9-8126-4bfd-94c3-f6d1b9a83458",
+          "2b22f649-53a8-4bb4-b775-2c944392cab1",
+          "bd7029e3-4672-44eb-95ff-713099f72a4c",
+          "a922119a-1891-44d1-8093-ff9fafe91430",
+          "8686a74c-541d-48c5-9c73-c03cc0875280",
+          "182971f3-26f7-4344-a352-0427834182fc",
+          "649f644f-1b85-427e-982d-95eb5e6f3006"
+        ]
+      },
+      {
+        "Id": "085f97e0-6960-41c9-8c33-3c975d80cff4",
+        "Name": "Masażery łechtaczki",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "6f55f5e9-a095-4824-a48c-80e52a950b6b",
+          "d9c63aa2-66fe-42b3-b06c-8b1acc964841",
+          "b19fcb4a-2b23-4899-9dca-4ebb397b5162",
+          "139f7e3c-6700-46ad-a1ab-fbc6e5d018b8",
+          "98a226f1-948c-4fe0-8951-9af4ec9e872f",
+          "026c70b9-2c22-4398-bb7e-f47f0f6484d9",
+          "040178d9-3b3a-4003-ac87-8e34a6abcaef",
+          "d0fd4e35-5d79-4a4a-9ce5-8e5f9764f360",
+          "0f72a8d8-1421-4144-8397-bd971c0f1231",
+          "804619d7-5648-43c7-bb2e-f7f9bb737647",
+          "eef57951-b4c1-4b57-b2c8-ca6876ad2b17",
+          "87ad9ca7-8bdb-4bcf-a8b6-5cb59b43bc67",
+          "719fb7ad-ae07-4ac2-b411-3bb6747d7b7c",
+          "29d77c13-25f1-45b3-9637-7137c0e613a1",
+          "8606c554-770b-4935-b460-f02d8ab47501"
+        ]
+      },
+      {
+        "Id": "d568df9c-9ce7-465c-8585-6d98c4d32590",
+        "Name": "Zdalnie sterowane",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "bbb4397d-a923-405f-8c2f-26b76a01de8e",
+          "d2fbc6f4-c535-490d-93fe-b5b41be6e358",
+          "b5ab934c-bb3e-40ba-affb-ba5e5970f2fc",
+          "ac814471-f2a8-48e6-b579-f764d0d4f3e3",
+          "1965b8d1-ac6b-449d-87ed-de2d8199ab37",
+          "4422fcc2-3747-4fd5-acf9-381c7ed5d031",
+          "762a07ef-cec4-45c5-98a5-a12066593de4",
+          "b62b6227-074d-4943-9a3e-9a63ac04d167",
+          "e418d7be-0fdd-4cf0-a96a-339e2bebda10",
+          "f3f7f7fd-bb03-432b-8028-c267cdbc28c4",
+          "29bf0de6-7bca-4ff2-bc6b-13483a210a87",
+          "956e807f-4561-4ca2-9f31-4993cb5627a3",
+          "5c5ca378-5461-4257-9b85-bdfb518f8bc3",
+          "d9c7ef09-46d8-4c57-8932-7d2c54bb3ae2",
+          "20bf1ad7-6dbe-46b6-92e6-53b51f446516"
+        ]
+      },
+      {
+        "Id": "e6c55de3-b0e1-4a95-ae0f-748f8818459d",
+        "Name": "Na palec",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "968246fd-7172-4462-a6a1-0dc42ccba6b8",
+          "8019a209-bc22-4ff4-a3f3-6b75357d0b78",
+          "b6c541ec-a5e5-4803-84e4-95b0e252ceba",
+          "1d795435-817b-4691-b0d2-0afeb90ea745",
+          "e91b7ae6-7dfd-42b3-88cd-0797795fb76d",
+          "ab111bb6-0aa2-4f5f-9feb-a7a73ac5008b",
+          "374c1268-fb49-42db-a434-d1f3b97be30c",
+          "a1bdc5a5-3132-4a21-9721-7658354c17d1",
+          "16dd0fd9-4bf9-4cb1-87ec-182823996517",
+          "1de3ceab-e2d3-487b-9412-7328ab6f60b3",
+          "6ed4f115-66c2-4cf1-adfa-788f371cf205",
+          "a374f67e-2be4-44e8-9bf5-69cddadd7257",
+          "f5d0ecc6-1ac6-42fe-988c-26b478bb6226",
+          "3dc164a7-41b1-4c8f-805e-246a9a6b871e",
+          "9020d5d1-fdab-4c63-b194-14ebc15c58e4"
+        ]
+      },
+      {
+        "Id": "e058753a-602c-4651-9928-d405189cb6f0",
+        "Name": "Dla par",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "3484c782-dd76-4e04-9b47-6b3ee1f5abce",
+          "7c7ae426-7686-4ee3-a0e1-c44a47843945",
+          "622f5a1d-fd8c-4c27-b03c-1dd8161df136",
+          "c17b63f9-bc4b-4972-851d-a7aac2c212a5",
+          "8ca3146e-709e-4b0a-86ac-590054abec18",
+          "a9fb76a6-04a7-4b9b-a58b-b5bf09d70faf",
+          "cf73f049-cd02-4cf4-89d7-446ddd6a08c5",
+          "e9d10ee7-340d-4376-8305-b6ba82e7af03",
+          "313c726e-f847-48eb-9267-a85c19435987",
+          "82651cbb-23fb-460c-ab34-74f22abf3e14",
+          "5a1b9235-f420-4365-b1e1-1518cbb66cdc",
+          "63f77906-141f-4495-b059-0f1b475f9a0d",
+          "474341d6-a5a1-4946-b12a-4373260f45a4",
+          "a9613105-3e66-45e6-8614-1b2ad3bf5ed9",
+          "3ab0350c-1059-4a56-ae1c-f7407065e6a0"
+        ]
+      },
+      {
+        "Id": "40c66096-cc59-43b9-966f-1e85ac1cb87a",
+        "Name": "Masażery do ciała",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "ab884c52-ec71-4c63-b6c0-e7ad9d969085",
+          "b35517c1-ef5c-4b3b-887b-859964738616",
+          "14d72bd3-5819-42c2-a584-2d06b1433e97",
+          "705fbc79-ca97-4f6f-ac64-1125bbab4d96",
+          "76cfe597-2d5f-4032-8cf9-29ec987718ca",
+          "e6cdc81a-d6bc-4daa-b5ac-2a456d4d2b4c",
+          "2d4a8da2-ba2c-4f0e-add1-e4e824e0c21b",
+          "0a84b4f2-171b-4ccf-b532-3d2968fa03bc",
+          "34f31e2b-2970-438d-b292-36600f05d375",
+          "fbf94cae-8208-46b7-924a-3223b661867b",
+          "5770c92e-1373-4bc2-b5a3-b97e0d0a4a5d",
+          "fc6ef855-51fc-4477-ade4-ef7c6ba8c47d",
+          "01210361-cf60-4aee-934d-d2568806b5fa",
+          "61df7cf0-a5d0-4e65-bfbd-72d0aca06d3a",
+          "b24e6055-7478-4784-864b-36da1c54919a"
+        ]
+      },
+      {
+        "Id": "cee7a549-db75-400a-839e-8714f67bb854",
+        "Name": "Inne",
+        "IsRootCategory": false,
+        "Categories": [],
+        "ProductIds": [
+          "1036a8e9-5e4a-4566-b217-3f99dbc7b7e2",
+          "6ab41999-7778-4fbb-997e-02da39608504",
+          "3ce321ce-f927-4702-a115-003c3ed264a9",
+          "6edda86d-ba86-4723-a582-59f388b25af2",
+          "38c4ae02-45f0-475b-8739-08e6dd640ac2",
+          "53e04b98-22f5-4ca2-a2ee-43a9a75b1c36",
+          "65151c35-0675-41bb-911d-4356d8a331fd",
+          "309b2fdd-a81f-4db8-a47a-54507c4e61b3",
+          "73ce8a3e-41cb-453d-a6fa-c2c7ae303ee8",
+          "8d6cbbfc-9bf2-479d-ae1c-b0ab2c32addb",
+          "9a540524-8d7a-4fa4-a411-75c4027ce1ba",
+          "8a246239-94d1-4809-8f6b-9fb9610fc11c",
+          "059a5e56-c986-474d-920f-211239502022",
+          "dae6173a-27d0-4885-8777-4d903fe1663e",
+          "ff58eecc-e21b-409a-bfc8-656f1931bb77"
+        ]
+      }
+    ],
+    "ProductIds": []
+  },
+  {
+    "Id": "b65c0530-b36a-4b09-bd5c-ec7b02e849b1",
+    "Name": "Drogeria",
+    "IsRootCategory": true,
+    "Categories": [
+      {
+        "Id": "5d3af53e-0a83-40b0-b783-b80f99bc3617",
+        "Name": "Kosmetyki erotyczne",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "e1ef01be-f0cb-4fc6-bad1-b62e70c37797",
+            "Name": "Balsamy",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "95278858-34fd-406d-8215-3b1fba5f6b6e",
+              "ef542cc1-aa8f-4ea0-9b13-5a6dd7f451fb",
+              "b314be25-af4d-4253-8d2c-02de17a00116",
+              "3a457174-49fe-41c7-a205-4478992bdbd7",
+              "806690f0-861d-434f-a276-3aea01026745",
+              "1d9a661f-1083-422d-a112-aaf7ed753fa6",
+              "a837dbeb-cc4c-4b27-9cf9-1d8f478cf9ff",
+              "274cf6bc-c4ee-40a3-b0b8-337fe2fcbd72",
+              "3350eaa5-ae68-4ddd-90cd-bd625f68386e",
+              "63c300e6-498a-4eab-aed4-536d3b7d23fd",
+              "9c4b4ab5-8e5f-4826-99bd-8f1eccae69f9",
+              "8b2fbe24-707f-4658-8d25-606a7448d1e3",
+              "11d2d791-2f73-4069-a6dc-0177b961aa4c",
+              "bc5fd6b1-d3f5-4bd2-baac-ae059e6df72c",
+              "a725bfc2-790a-4560-a31e-c60e38ada829"
+            ]
+          },
+          {
+            "Id": "beef3df7-a99a-45a6-8c45-1a7bceaf33bb",
+            "Name": "Farbki do ciała",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "5d30c67f-0238-4fc9-a220-5e567fdbc403",
+              "7323b6f7-adb3-4458-9609-e40bb0546fa2",
+              "b8d2f123-ae5d-464d-8e92-579967e7e9a8",
+              "5d60a9e4-97fb-46b5-b426-0047d472ea61",
+              "cae965c1-2ec5-486c-85a2-8fa71a6b7f95",
+              "531917a3-426e-4823-99f0-926492a2aa67",
+              "09ead5b8-3f51-409e-8864-a4deda5bbff5",
+              "db4cf14b-57fb-4b12-aabe-75bc67d642c0",
+              "dce3d8c2-df7a-488d-8c70-bf1b559c32cc",
+              "4022f2d5-89ca-40e0-8160-2959be7f90f4",
+              "3d4b8356-1578-4d69-8ba6-a990a304d700",
+              "8e8eb7c4-79cc-40e3-8de3-4047b3e86d49",
+              "1b70d86d-c9b7-4e76-95a7-994db6d83ec7",
+              "977785da-9d9d-466b-ab18-8fb1d344826c",
+              "abde3e50-f0b5-4e29-b40c-687a77460114"
+            ]
+          },
+          {
+            "Id": "7b46caac-0402-4146-bd09-e5619b1c14ae",
+            "Name": "Pudry do ciała",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "89e8397d-36c4-49bb-bc39-c8470977a6e3",
+              "14f916af-efdf-4caa-9dee-4a9d9d7e512a",
+              "c6e4be2c-ad78-48f3-8031-ca17dc6ddc3f",
+              "21b8085f-853b-4aba-afb4-087adbd905cb",
+              "694afb9a-5581-4bb9-b474-4cfb41cb90e5",
+              "117f7b48-aa4d-489e-89e9-e3473476f41a",
+              "26b1c77f-8590-4683-ad86-e4634bb7f5f6",
+              "a8f4386c-7b1b-4bed-a5c3-f9fb8cd3b101",
+              "55ce7566-f15d-4561-ba5b-ae9c674b87fb",
+              "359b2545-28a7-4a43-8131-2bce61f45204",
+              "7bb6913a-b2f5-43b7-8841-b2286b2146dd",
+              "30625661-9c79-43ea-ac39-f8cf1c372a64",
+              "d00f6efd-e460-4697-9032-23bc33446851",
+              "1f85eb7e-6a9d-49df-b291-ba4c98680827",
+              "ef644edf-8fe8-49b0-99ab-a4830db4315c"
+            ]
+          },
+          {
+            "Id": "8a2a19c4-14eb-4d98-9feb-5c2889c29013",
+            "Name": "Higiena zabawek erotycznych",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "6903b16f-58c7-4fa9-a4db-1cde08aa10f4",
+              "61870ca6-6296-4058-a137-e7e310334d99",
+              "49ddd563-02ea-4659-b6da-9b23125a4049",
+              "03c88242-4ab5-4862-9797-74ce76a24f75",
+              "91316f11-51ee-4fbf-982c-a8fa49e206d2",
+              "f007a6e5-b60d-457f-8b22-b76dfbfcc3b4",
+              "e8f9eab6-924e-4cd3-8e1a-4a56d7cacdb0",
+              "d66ff111-5a7e-4c8c-9bf9-ad63bf2be49b",
+              "f0e677c9-43da-46d4-a8f9-cf9b520acb2e",
+              "982c96db-1095-44e5-bac6-a819611388de",
+              "a8cb3dd5-c448-494a-a020-9f549ae54570",
+              "2a4cb5ee-b5fa-4acc-b005-7d5d5bb80452",
+              "2f752d13-4133-495e-8e1a-96f65fb92ba6",
+              "82c313eb-6067-4ffd-8fe8-01e141433cc3",
+              "43889e7e-8397-43d8-87b4-20e985bbb2d3"
+            ]
+          },
+          {
+            "Id": "9376aad9-88bb-4738-b95a-f1aa3a73a79a",
+            "Name": "Prezerwatywy",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "e4d72967-2f3c-4ad0-810f-0b0e1cbf06bb",
+              "77b3c7c4-06f6-4447-883a-55d76c0f8642",
+              "7df9f38d-1850-4b65-a4d1-54c2691ff310",
+              "0345677d-2d2d-4ba3-9a65-aec9d05916c4",
+              "dfd18f0f-fc91-4a13-92e5-2f62abe9ad91",
+              "bd1daeb4-8650-4734-8946-1e2cbb35724d",
+              "c49525c3-19e4-4284-86a0-12dd520ed053",
+              "81955a9c-6476-46fb-8583-a840c40aa08f",
+              "00c915c1-0e2a-46ca-b206-9ecdbd6fa50a",
+              "6696c5bb-bb35-4c27-9992-adc78c466445",
+              "8e1fab31-85d5-4bde-8fe0-8f9ea304fa3a",
+              "299598bf-be00-4fc0-b18b-b6c60032b46e",
+              "9ec8e67b-f0c0-486c-b6e7-ed80821681d5",
+              "c31705bc-d308-4f26-aaad-448a06c3024a",
+              "616e4c9c-f8d8-42b4-86d8-3e844bfc3470"
+            ]
+          }
+        ],
+        "ProductIds": []
+      },
+      {
+        "Id": "6c259f0d-1097-42b7-90bd-4b0d7762ebd5",
+        "Name": "Lubrykanty",
+        "IsRootCategory": false,
+        "Categories": [
+          {
+            "Id": "0bfe6b1e-779c-411b-a43f-8b10902d340c",
+            "Name": "Wodne",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "7fbff420-30c7-48e2-85f0-9c8b5e0bde40",
+              "c1c11f84-10f8-4cb7-b3d9-b1c7139b259c",
+              "7f9f565d-b10c-447b-8504-8d8ca00376c3",
+              "17370fc5-ea64-4c78-b1de-ea0193726b29",
+              "920fc5ae-05c6-4129-8d38-8c4957c55ffd",
+              "620f6d0f-c88f-42e0-bedd-d12688641543",
+              "8cc74a39-737d-419d-88a8-b355fa7c5bda",
+              "21dd11bd-9db3-4a1d-97f7-fe68866b9549",
+              "9631a0d1-e78b-4b7e-8e61-d4bf776eed25",
+              "d71ab7ee-1dfd-4397-94ff-bdc96fa8a95f",
+              "f44f5cc0-5cf0-469f-8b61-6b5256c4ffd5",
+              "b01e9027-f905-4930-b99d-070b733ae351",
+              "38051809-8569-4d1b-97bc-67e2d2b45731",
+              "90ea7269-b6cd-4fed-be25-89a2ffcfba23",
+              "fb28aee6-a2f2-4b6a-8e4f-091c6284fbe6"
+            ]
+          },
+          {
+            "Id": "7e1ae36d-dc68-4ce0-ac24-d43724385f2f",
+            "Name": "Silikonowe",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "86081459-5997-46b9-8135-88efb003fa31",
+              "b0b9b44e-51e4-4bb7-b530-e5aef2e74483",
+              "1f35ce94-2354-4b84-a51e-34ed70a89389",
+              "4a263c1c-45d0-4acf-abf2-89086d0391c5",
+              "0e915c67-ec5c-4d76-a514-67a8b48572fc",
+              "20b3eb23-2c9c-4628-99b3-e27cc6acc72c",
+              "0905de7d-eee0-43cc-997c-9bc1e90567b1",
+              "2598e499-2d5d-4322-bb99-bdf61b129747",
+              "56a2bee2-fbb4-4be8-ac64-b665b7b62fad",
+              "97ee6047-2d5e-439f-861f-3ae46daba922",
+              "c715a0cc-f8da-471b-a351-4a0a3072c70a",
+              "b552df41-33bf-4c0f-972f-813876a7077f",
+              "d9986a37-21b1-4a93-9170-8855549d1986",
+              "738c7369-c02e-407e-a3b9-787b9561b843",
+              "04cd30cc-aaf9-4d12-a94e-3bb5575f20a3"
+            ]
+          },
+          {
+            "Id": "03999495-0ed8-41e0-8f80-309e57bca0d5",
+            "Name": "Hybrydowe",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "fde29fa4-7318-4fb1-9919-191ffc800435",
+              "5c9a4b04-e3ba-415b-b596-2e5d7ed87340",
+              "9fea41e6-786a-4c59-935b-f9cc99778a30",
+              "d491bb1d-4bc1-4743-b956-7e5a3c64c719",
+              "c1225a6a-0175-41ef-b4de-ab6af2cbd98d",
+              "e370ed70-9981-4689-b860-45098c763e9a",
+              "26a79a2c-3cb6-4df6-856e-d649e0a0c413",
+              "dae3cb4c-1438-49fb-9792-9f1f704e5813",
+              "d909e2f1-8e76-42bf-8430-ed9a10527b05",
+              "a9c3c219-561c-4ac6-8f2e-e9bfca8ef89a",
+              "e54e546c-9d59-465c-8a25-eab9128a4a05",
+              "9a159a56-8c96-4824-b3c5-d1bdafdb8dcc",
+              "4f43d7ff-0410-42e2-a199-be46ea8ea431",
+              "64541644-be53-4873-b451-30bda3dbcc0f",
+              "09de32cd-ee0b-43db-b5e0-dcd46062a915"
+            ]
+          },
+          {
+            "Id": "3e7e4ea6-0647-4858-a508-2986ab4480df",
+            "Name": "Organiczne",
+            "IsRootCategory": false,
+            "Categories": [],
+            "ProductIds": [
+              "d2ba8286-fd42-46cf-8de7-bbbb14aee2f9",
+              "0237eb0c-6715-43bc-a9bb-40a2a38fa3ef",
+              "6155af3e-d4ba-4be0-afb8-813c572dd95a",
+              "e99941c7-5fed-4e18-bc3f-e2f89c072e2d",
+              "dd4599bf-8d74-4079-a8a5-6f9fb959aba6",
+              "ee506b0a-5b29-4faa-b752-80fe7aee91de",
+              "8fa9c6ca-e85f-4eef-bc7b-b1868177967d",
+              "4ab5908d-b7f7-4fcb-9564-0c00cd50c54f",
+              "9f1cc260-095d-47f0-b182-a55a441103d2",
+              "8119dafb-e3af-485a-959b-02eb0855fd9a",
+              "3b5afd6d-98e5-488a-8a1c-d7e7c742904a",
+              "f9a2560a-3006-49c2-8e47-a604c0a2477c",
+              "2933bdc6-ae0e-40cc-ad59-590c64c686dc",
+              "3f7ed88c-b7c6-4368-b590-e9567a0bfea2",
+              "6ea88f24-53f5-4e3b-9fa2-4a0b376e1087"
+            ]
+          }
+        ],
+        "ProductIds": []
+      }
+    ],
+    "ProductIds": []
+  }
+]

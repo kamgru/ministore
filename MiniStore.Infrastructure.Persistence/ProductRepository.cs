@@ -5,6 +5,7 @@ using System.Linq;
 using System.Collections;
 using System.Linq.Expressions;
 using MiniStore.Common;
+using System.Threading.Tasks;
 
 namespace MiniStore.Infrastructure.Persistence
 {
@@ -12,28 +13,29 @@ namespace MiniStore.Infrastructure.Persistence
     {
         private const string _collectionName = "Products";
         private readonly IMongoDatabase _database;
+        private readonly IMongoCollection<Product> _collection;
 
         public ProductRepository(IMongoDatabase database)
         {
             _database = database;
+            _collection = _database.GetCollection<Product>(_collectionName);
         }
 
         public void Add(Product product)
         {
-            _database.GetCollection<Product>(_collectionName)
-                .InsertOne(product);
+            _collection.InsertOne(product);
         }
 
         public Product Get(Guid id)
         {
-            return _database.GetCollection<Product>(_collectionName)
+            return _collection
                 .Find(x => x.Id == id)
                 .FirstOrDefault();
         }
 
-        public PagedResult<Product> Search(Query<Product> query)
+        public async Task<PagedResult<Product>> Search(Query<Product> query)
         {
-            var products = _database.GetCollection<Product>(_collectionName)
+            var products = _collection
                 .Find(query.Predicate);
 
             var sorting = query.SortingSettings;
@@ -47,7 +49,9 @@ namespace MiniStore.Infrastructure.Persistence
             products = products.Skip((paging.Page - 1) * paging.Count)
                 .Limit(paging.Count);
 
-            return new PagedResult<Product>(products.ToList(), count, sorting, paging);
+            var items = await products.ToListAsync();
+
+            return new PagedResult<Product>(items, count, sorting, paging);
         }
 
         public PagedResult<Product> SearchByCategory(Category category, Query<Product> query)
@@ -58,13 +62,13 @@ namespace MiniStore.Infrastructure.Persistence
 
             var and = Builders<Product>.Filter.And(cat, q);
 
-            var items = _database.GetCollection<Product>(_collectionName).Find(and).ToList();
+            var items = _collection.Find(and).ToList();
             return new PagedResult<Product>(items, 10, query.SortingSettings, query.PagingSettings);
         }
 
         public void Update(Product product)
         {
-            _database.GetCollection<Product>(_collectionName)
+            _collection
                 .ReplaceOne(x => x.Id == product.Id, product);
         }
     }

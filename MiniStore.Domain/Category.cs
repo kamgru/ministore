@@ -8,7 +8,6 @@ namespace MiniStore.Domain
     {
         public Guid Id { get; private set; }
         public string Name { get; private set; }
-        public Category ParentCategory { get; private set; }
         public bool IsRootCategory { get; private set; }
 
         private List<Category> _childCategories = new List<Category>();
@@ -56,17 +55,6 @@ namespace MiniStore.Domain
             }
             
             _childCategories.Add(category);
-        }
-
-        public void MoveCategoryToNewParent(Category parent)
-        {
-            if (IsRootCategory)
-            {
-                throw new CategoryRelationshipException();
-            }
-
-            ParentCategory.RemoveChildCategory(this);
-            parent.AddChildCategory(this);
         }
 
         public void RemoveChildCategory(Category category)

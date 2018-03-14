@@ -5,31 +5,36 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MiniStore.Application;
-using MiniStore.Domain;
 using MiniStore.Website.Models;
+using MiniStore.Website.ViewModels;
 
 namespace MiniStore.Website.Controllers
 {
     public class HomeController : Controller
     {
         private readonly CategoryService _applicationService;
+        private readonly ProductService _productService;
 
-        public HomeController(CategoryService applicationService)
+        public HomeController(CategoryService applicationService, ProductService productService)
         {
             _applicationService = applicationService;
+            _productService = productService;
         }
 
         public IActionResult Index()
         {
-            ViewBag.CategoryTree = _applicationService.GetCategoryTree();
-
             return View();
         }
 
-        public IActionResult Category(Guid id)
+        public async Task<IActionResult> Category(Guid id, int? page, int? count)
         {
             var category = _applicationService.GetCategory(id);
-            return View(category);
+            var products = await _productService.GetProductsForCategory(id, page ?? 1, count ?? 5);
+            return View(new CategoryViewModel
+            {
+                Category = category,
+                Products = products.Items
+            });
         }
 
         public IActionResult About()

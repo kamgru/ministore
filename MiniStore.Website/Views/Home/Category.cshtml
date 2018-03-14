@@ -1,4 +1,4 @@
-﻿@model MiniStore.Application.CategoryViewModel
+﻿@model MiniStore.Website.ViewModels.CategoryViewModel
 
 @{
     ViewData["Title"] = "Category";
@@ -13,33 +13,27 @@
             <hr />
             <dl class="dl-horizontal">
                 <dt>
-                    @Html.DisplayNameFor(model => model.Id)
+                    @Html.DisplayNameFor(model => model.Category.Id)
                 </dt>
                 <dd>
-                    @Html.DisplayFor(model => model.Id)
+                    @Html.DisplayFor(model => model.Category.Id)
                 </dd>
                 <dt>
-                    @Html.DisplayNameFor(model => model.Name)
+                    @Html.DisplayNameFor(model => model.Category.Name)
                 </dt>
                 <dd>
-                    @Html.DisplayFor(model => model.Name)
+                    @Html.DisplayFor(model => model.Category.Name)
                 </dd>
             </dl>
-            <hr/>
-            <p>
-                Product ids<br/>
-                @foreach (var id in Model.ProductIds)
-                {
-                <span>@id</span><br/>
-
-                }
-            </p>
-
+            <hr />
         </div>
-        <div>
-            @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
-            <a asp-action="Index">Back to List</a>
+        @foreach (var product in Model.Products)
+        {
+        <div class="col-md-3">
+            @product.Name<br/>@product.Price
         </div>
+
+        }
 
     </div>
 </div>

@@ -6,6 +6,8 @@ namespace MiniStore.Domain
 {
     public class Query<T>
     {
+        private Func<Product, bool> p;
+
         public PagingSettings PagingSettings { get; }
         public SortingSettings<T> SortingSettings { get; }
         public Expression<Func<T, bool>> Predicate { get; }
