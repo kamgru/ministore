@@ -54,18 +54,6 @@ namespace MiniStore.Infrastructure.Persistence
             return new PagedResult<Product>(items, count, sorting, paging);
         }
 
-        public PagedResult<Product> SearchByCategory(Category category, Query<Product> query)
-        {
-            var cat = Builders<Product>.Filter.In(x => x.Id, category.GetAllProductIdsInHierarchy());
-
-            var q = Builders<Product>.Filter.Where(query.Predicate);
-
-            var and = Builders<Product>.Filter.And(cat, q);
-
-            var items = _collection.Find(and).ToList();
-            return new PagedResult<Product>(items, 10, query.SortingSettings, query.PagingSettings);
-        }
-
         public void Update(Product product)
         {
             _collection

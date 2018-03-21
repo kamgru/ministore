@@ -22,4 +22,6 @@ namespace MiniStore.Domain
             Predicate = predicate;
         }
     }
+
+
 }

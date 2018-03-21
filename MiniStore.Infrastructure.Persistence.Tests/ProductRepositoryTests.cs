@@ -28,7 +28,7 @@ namespace MiniStore.Infrastructure.Persistence.Tests
             rootCategory.AddProduct(p1);
             rootCategory.AddProduct(p2);
 
-            var res = repository.SearchByCategory(rootCategory, new Query<Product>(x => x.Name == "test product 2", new PagingSettings(1, 10), new SortingSettings<Product>(x => x.Id, false)));
+            var res = repository.GetByIds(rootCategory, new Query<Product>(x => x.Name == "test product 2", new PagingSettings(1, 10), new SortingSettings<Product>(x => x.Id, false)));
 
             Assert.True(res.Items.Count == 1);
             Assert.True(res.Items.First().Id == p2.Id);

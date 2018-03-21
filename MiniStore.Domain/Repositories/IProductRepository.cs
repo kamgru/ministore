@@ -1,5 +1,7 @@
 ﻿using MiniStore.Common;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace MiniStore.Domain
@@ -10,6 +12,5 @@ namespace MiniStore.Domain
         void Add(Product product);
         void Update(Product product);
         Task<PagedResult<Product>> Search(Query<Product> query);
-        PagedResult<Product> SearchByCategory(Category category, Query<Product> query);
     }
 }
